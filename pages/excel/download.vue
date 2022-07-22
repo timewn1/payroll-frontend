@@ -1,0 +1,12 @@
+<template>
+  <DownloadExcel />
+</template>
+
+<script>
+export default {
+  name: 'index',
+  layout: 'dashboard',
+}
+</script>
+
+<style scoped></style>

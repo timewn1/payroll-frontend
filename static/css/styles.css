@@ -1,0 +1,26 @@
+.breadcrumb {
+  background: none !important;
+  font-size: 14px !important;
+}
+
+.input-validation {
+  border: 1px solid #ff07077a !important;
+}
+
+.table-poya-day {
+  background-color: #ffc107 !important;
+}
+
+.table-no-pay {
+  background-color: red !important;
+}
+
+.table.b-table > thead > tr > th {
+  background-color: white;
+  position: sticky;
+  position: -webkit-sticky;
+  top: 0;
+  z-index: 2;
+}
+
+
